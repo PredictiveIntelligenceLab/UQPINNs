@@ -5,10 +5,11 @@ We present a deep learning framework for quantifying and propagating uncertainty
 
 
 ## Citation
-***
+```
 @article{yang2018adversarial,
   title={Adversarial Uncertainty Quantification in Physics-Informed Neural Networks},
   author={Yang, Yibo and Perdikaris, Paris},
   journal={arXiv preprint arXiv:1811.04026},
   year={2018}
 }
+```
