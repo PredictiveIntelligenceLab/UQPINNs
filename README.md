@@ -7,7 +7,6 @@ This paper was accepted by Journal of Computational Physics.
 Adversarial uncertainty quantification in physics-informed neural networks,
 Journal of Computational Physics,
 2019,
-,
 ISSN 0021-9991,
 https://doi.org/10.1016/j.jcp.2019.05.027.
 
