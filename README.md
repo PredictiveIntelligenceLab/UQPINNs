@@ -3,7 +3,13 @@ We present a deep learning framework for quantifying and propagating uncertainty
 
 This paper was accepted by Journal of Computational Physics.
 
-- Yibo, Yang, and Paris Perdikaris. "[Adversarial Uncertainty Quantification in Physics-Informed Neural Networks.](https://arxiv.org/abs/1811.04026)" arXiv preprint arXiv:1811.04026 (2018).
+- Yibo Yang, Paris Perdikaris,
+Adversarial uncertainty quantification in physics-informed neural networks,
+Journal of Computational Physics,
+2019,
+,
+ISSN 0021-9991,
+https://doi.org/10.1016/j.jcp.2019.05.027.
 
 
 ## Citation
