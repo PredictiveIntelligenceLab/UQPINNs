@@ -17,6 +17,8 @@ https://doi.org/10.1016/j.jcp.2019.05.027.
   title={Adversarial uncertainty quantification in physics-informed neural networks},
   author={Yang, Yibo and Perdikaris, Paris},
   journal={Journal of Computational Physics},
+  volume={394},
+  pages={136--152},
   year={2019},
   publisher={Elsevier}
 }
